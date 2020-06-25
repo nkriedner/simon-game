@@ -1,4 +1,4 @@
-# simon-game
+# simon-game - jQuery Game
 
 This is a project I had build in Angela Yu's "The Complete 2020 Web Developer Bootcamp" - using jQuery.
 
